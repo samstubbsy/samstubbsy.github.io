@@ -1,18 +1,20 @@
 ---
 
-title: "About David Florian"
+title: "About Sam Stubbs"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Sam has pursued an interdisciplinary course of study at Vanderbilt, spanning across social sciences, humanities, and engineering. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Bachelor of Science, Peabody College
+  * Major: Human & Organizational Development
+    * Track: Communtity Leadership & Development
+  * Major: Communication of Science & Technology
+  * Minor: Computer Science
+  * Minor: Digital Fabrication
 
 ## Technical Skills
 
@@ -28,4 +30,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/SamStubbs-VINES crop950.jpg" alt="Photo of Sam Stubbs" style="width:200px;"/>
