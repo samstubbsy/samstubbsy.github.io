@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "/assets/img/SamStubbs-VINES crop950.jpg"
   bio              : "Human-centered design thinker with enough engineering skills to be dangerous"
   location         : "Nashville, TN + Chicago, IL"
   links:
