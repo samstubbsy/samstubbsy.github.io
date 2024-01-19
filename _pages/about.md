@@ -26,6 +26,6 @@ Sam is skilled in various design softwares and fabrication techniques:
 
 ## Press 
 
-Chicago Beach CleanUp, the nonprofit founded by Sam, was featured in [ABC 7 Chicago News](https://abc7chicago.com/alliance-for-the-great-lakes-beach-cleanup-lake-michigan-chicago-beaches/13163854/).
+Chicago Beach CleanUp, the nonprofit founded by Sam, was featured by [CBS News Chicago](https://www.dropbox.com/scl/fi/qy8wxx94cj34z5lg1uchy/WBBM_09-16-2023_18.27.50.mp4?rlkey=74avw5brcajrciiu2t3709iwg&dl=0).
 
 <img src="/assets/img/SamStubbs-VINES crop950.jpg" alt="Photo of Sam Stubbs" style="width:200px;"/>
