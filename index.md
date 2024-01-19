@@ -1,5 +1,5 @@
 ---
-title: "Engineering with a human touch"
+title: "Engineering with a Human Touch"
 layout: splash
 header:
   overlay_color: "#000"
@@ -10,17 +10,18 @@ header:
       url: "/portfolio/"
 excerpt: "Sam is a social scientist and entrepreneur who's not afraid of tinkering with tech. This portoflio will focus on his digital fabrication projects."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/gep.png
+    alt: "Group holding trash bags at the beach"
+    title: "Chicago Beach CleanUp"
+    excerpt: "Sam founded CBCU to make environmental service more accessible in Chicago."
+  - image_path: assets/img/Screenshot 2024-01-18 at 11.08.06 PM.png
+    alt: "Screenshot of an Airtable form"
+    title: "The Wond'ry"
+    excerpt: "Sam redesigned the mentor-mentee matching system at Vanderbilt's innovation center."
+  - image_path: assets/img/IMG_9478.HEIC
+    alt: "Two phone cases"
+    title: "3D Printed Phone Case"
+    excerpt: "Sam has iterated on phone case designs in the Digital Fabrication Lab."
 ---
 
 {% include feature_row %}
