@@ -13,12 +13,12 @@ feature_row:
   - image_path: assets/img/gep.png
     alt: "Group holding trash bags at the beach"
     title: "Chicago Beach CleanUp"
-    excerpt: "Sam founded CBCU to make environmental service more accessible in Chicago."
+    excerpt: "Sam founded a nonprofit that hosts volunteer events to make environmental service more accessible in Chicago."
   - image_path: assets/img/Screenshot 2024-01-18 at 11.08.06 PM.png
     alt: "Screenshot of an Airtable form"
     title: "The Wond'ry"
     excerpt: "Sam redesigned the mentor-mentee matching system at Vanderbilt's innovation center."
-  - image_path: assets/img/IMG_9478.HEIC
+  - image_path: assets/img/phone_case_jpeg.jpg
     alt: "Two phone cases"
     title: "3D Printed Phone Case"
     excerpt: "Sam has iterated on phone case designs in the Digital Fabrication Lab."
