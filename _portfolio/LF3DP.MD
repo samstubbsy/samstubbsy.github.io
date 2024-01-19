@@ -6,8 +6,13 @@ header:
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
+    alt: "placeholder image 1"
+
   - image_path: assets/img/Slide-2.png
+    alt: "placeholder image 2"
+
   - image_path: assets/img/Slide-4.png
+    alt: "placeholder image 3"
    
 ---
 
