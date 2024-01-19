@@ -18,16 +18,14 @@ Sam has pursued an interdisciplinary course of study at Vanderbilt, spanning acr
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Sam is skilled in various design softwares and fabrication techniques:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Fusion 360
+* SolidWorks
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Chicago Beach CleanUp, the nonprofit founded by Sam, was featured in [ABC 7 Chicago News](https://abc7chicago.com/alliance-for-the-great-lakes-beach-cleanup-lake-michigan-chicago-beaches/13163854/).
 
 <img src="/assets/img/SamStubbs-VINES crop950.jpg" alt="Photo of Sam Stubbs" style="width:200px;"/>
