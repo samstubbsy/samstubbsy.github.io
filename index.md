@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: assets/img/trees.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/img/phone_case_jpeg.jpg
     alt: "Two phone cases"
     title: "3D Printed Phone Case"
-    excerpt: "Sam has iterated on phone case designs in the Digital Fabrication Lab."
+    excerpt: "Sam has iterated on phone case designs in the Vanderbilt Digital Fabrication Lab."
 ---
 
 {% include feature_row %}
