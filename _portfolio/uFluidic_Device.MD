@@ -8,6 +8,8 @@ gallery:
     alt: "PDMS molded uFluidic device"
   - image_path: assets/img/moldjpg.jpg
     alt: "Resin VPP printed uFluidic device mold"
+  - image_path: assets/img/uflu_detail.png
+    alt: "Pyramid detail in uFluidic mold channel CAD model"
    
 ---
 
@@ -19,5 +21,5 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee89ec95aa46b5c65?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="uFluidic device and mold" %}
+{% include gallery caption="uFluidic device, mold, and CAD channel detail in mold" %}
 
