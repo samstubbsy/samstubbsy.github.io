@@ -21,4 +21,25 @@ gallery:
 # Arduino Code
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSY45HmhXlK-GK7BBKmvlS7KyzTpgHUF3dQzUy6mMNF2LgMfBJjd6ALjxcJCUHS4gYRhCX21G6iZOkU/pub?embedded=true" width="100%" height="600"></iframe>
 
+# Supplies
+Off-the-shelf parts
+| Part | Description |
+| --- | --- |
+| Breadboard | Facilitate electrical connections |
+| Elegoo UNO R3 | Contains the "smarts" of the device |
+| Syringe | Hold liquid to be pumped out by the device |
+| F688ZZ Flanged Ball Bearing (x2) | Holds lead screw in barrel stabilizers |
+
+Custom-designed parts
+| Part | Description |
+| --- | --- |
+| Enclosure | House all electrical components |
+| Enclosure lid | Barrier between electrical components and linear actuator |
+| Barrel stabilizer | Hold middle of barrel up and level with the aluminum extrusion |
+| Back of barrel stabilizer | Hold back end of barrel up and level with the aluminum extrusion |
+| Motor mounting plate | Hold motor up and level with the aluminum extrusion |
+| Breadboard fastener | Hold breadboard in place in enclosure |
+| Carriage | Moves linearly as screw rotates, compressing syringe plunger |
+
+
 {% include gallery caption="Rendering of Syringe Pump" %}
