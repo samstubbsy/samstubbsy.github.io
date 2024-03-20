@@ -18,11 +18,14 @@ gallery:
 * Bi-directional: liquid can enter through either end of the the device (with differing mixing efficacy).
 
 # Intro to uFluidic devices
+* There are many situations in which homogenous mixing of small volumes of fluids is necessary, particularly in biomedical fields. One practical example is in the creation of bioinks: https://www.mdpi.com/2310-2861/7/4/227.
+* Maximizing mixing over a minimal distance allows for conservation of expensive fluids. A long serpentine path would be an effective mixer, but it requires a lot of fluid to be held up in the device for that mixing to occur. Thus, a short, effective mixing section can be a major money saver.
 
 # Design decisions
-* Channel width: wide enough for accurate print resolution, thin enough for highly effective mixing
-* Serpentine channel provides greater opportunity for mixing
-* Pyramids carved out of channel allow for 3D mixing
+* Channel width = 0.35 mm: wide enough for accurate print resolution, thin enough for highly effective mixing
+* Serpentine channel provides greater opportunity for mixing (effective)
+* Pyramids carved out of straight channel allow for 3D mixing - fluid "folds over" itself (effective)
+* Various shaped obstacles (some with 3D pyramid cutouts) intended to increase mixing (ineffective)
 
 # Fabrication instructions
 * Print mold on a VPP resin printer with sufficient resolution using black or high-temp resin.
