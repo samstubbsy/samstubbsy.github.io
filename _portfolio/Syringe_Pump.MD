@@ -19,6 +19,6 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e3a88846cffcd0187?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Arduino Code
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSY45HmhXlK-GK7BBKmvlS7KyzTpgHUF3dQzUy6mMNF2LgMfBJjd6ALjxcJCUHS4gYRhCX21G6iZOkU/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSY45HmhXlK-GK7BBKmvlS7KyzTpgHUF3dQzUy6mMNF2LgMfBJjd6ALjxcJCUHS4gYRhCX21G6iZOkU/pub?embedded=true" width="100%" height="600"></iframe>
 
 {% include gallery caption="Rendering of Syringe Pump" %}
