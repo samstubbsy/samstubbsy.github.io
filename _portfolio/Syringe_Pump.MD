@@ -15,6 +15,14 @@ gallery:
 * Can accomodate varying syringe sizes.
 * Can be programmed to achieve varying flow rates.
 
+# Operating instructions
+
+* Manually set your syringe diameter and desired flow rate in the Arduino code
+* Fill syringe with liquid
+* Secure front of syringe in slot of front barrel stablizer and back of plunger in carriage cutout
+* Press on/off button
+* Pumping will stop when carriage hits limit switch on back barrel stabilizer
+
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e3a88846cffcd0187?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
