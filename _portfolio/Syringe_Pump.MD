@@ -34,10 +34,24 @@ Off-the-shelf parts
 
 | Part | Description |
 | --- | --- |
+| NEMA 17 Motor | Create rotational motion |
 | Breadboard | Facilitate electrical connections |
 | Elegoo UNO R3 | Contains the "smarts" of the device |
-| Syringe | Hold liquid to be pumped out by the device |
+| Syringe | Holds liquid to be pumped out by the device |
+| Lead Screw TR 8x8x250mm | Extends rotational motion of motor |
+| Nut TR8x8-4 | Translates rotational motion of lead screw to linear motion of carriage |
 | F688ZZ Flanged Ball Bearing (x2) | Holds lead screw in barrel stabilizers |
+| Flexible coupler | Connects motor shaft to lead screw |
+| Linear rod | Keeps carriage, back of barrel stablizer, and motor mounting plate aligned |
+| LM8UU Linear bearing | Allows carriage to slide along rod |
+| Lock collar | Hold linear rod in place |
+| M3x8mm Thread-forming Screw (many) | Various fastenings |
+| M3x8mm Bolt (many) | Various fastenings |
+| M3x10mm Bolt (x4) | Fasten motor to motor mounting plate |
+| M5 Tee Nut (x10) | Fasten custom components to aluminum extrusion |
+| Power supply | Powers device |
+| On-off button | Toggles power to device |
+| V-Slot 20x40x350mm | Aluminum extrusion used to hold and align motor mounting plate and barrel stabilizers |
 
 Custom-designed parts
 
@@ -48,7 +62,7 @@ Custom-designed parts
 | Barrel stabilizer | Hold middle of barrel up and level with the aluminum extrusion |
 | Back of barrel stabilizer | Hold back end of barrel up and level with the aluminum extrusion |
 | Motor mounting plate | Hold motor up and level with the aluminum extrusion |
-| Breadboard fastener | Hold breadboard in place in enclosure |
+| Breadboard fastener (x2) | Hold breadboard in place in enclosure |
 | Carriage | Moves linearly as screw rotates, compressing syringe plunger |
 
 
