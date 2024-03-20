@@ -2,6 +2,7 @@
 title: "uFluidic Device"
 excerpt: "A microfluidic device to mix two liquids over a short distance."
 header:
+  image: assets/img/devicejpg.jpg
   teaser: assets/img/devicejpg.jpg
 gallery:
   - image_path: assets/img/devicejpg.jpg
