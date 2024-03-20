@@ -23,6 +23,7 @@ gallery:
 
 # Supplies
 Off-the-shelf parts
+
 | Part | Description |
 | --- | --- |
 | Breadboard | Facilitate electrical connections |
@@ -31,6 +32,7 @@ Off-the-shelf parts
 | F688ZZ Flanged Ball Bearing (x2) | Holds lead screw in barrel stabilizers |
 
 Custom-designed parts
+
 | Part | Description |
 | --- | --- |
 | Enclosure | House all electrical components |
