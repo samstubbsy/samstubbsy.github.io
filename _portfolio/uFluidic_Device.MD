@@ -14,9 +14,14 @@ gallery:
 ---
 
 # Features
+* Mixes two liquids over a short distance.
+* Bi-directional: liquid can enter through either end of the the device (with differing mixing efficacy).
 
-* abc
-* xyz
+# Intro to uFluidic devices
+
+# Design decisions
+
+# Fabrication instructions
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee89ec95aa46b5c65?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
