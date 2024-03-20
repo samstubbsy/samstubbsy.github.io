@@ -20,8 +20,22 @@ gallery:
 # Intro to uFluidic devices
 
 # Design decisions
+* Channel width: wide enough for accurate print resolution, thin enough for highly effective mixing
+* Serpentine channel provides greater opportunity for mixing
+* Pyramids carved out of channel allow for 3D mixing
 
 # Fabrication instructions
+* Print mold on a VPP resin printer with sufficient resolution using black or high-temp resin.
+* Wash device for 5 minutes on the print bed.
+* Remove device from bed and wash for another 5 minutes in fresh IPA.
+* Let your device dry for 30 minutes before curing. Confirm that the inside of the mold
+has a homogenous sheen. Glossy areas indicate that uncured resin is still present, which
+will inhibit the crosslinking of PDMS.
+* Gently blow off any debris between your uFluidic’s channel. Use compressed air if necessary. Do not touch the inside of the uncured mold.
+* Perform a 10 second surface cure.
+* Coat mold in parylene.
+* Cast device in mold using PDMS.
+* Plasma bond glass slide to PDMS device. 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee89ec95aa46b5c65?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
