@@ -25,7 +25,8 @@ gallery:
 * Maximizing mixing over a minimal distance allows for conservation of expensive fluids. A long serpentine path would be an effective mixer, but it requires a lot of fluid to be held up in the device for that mixing to occur. Thus, a short, effective mixing section can be a major money saver.
 
 # Pliers in Action
-assets/img/gif-1.gif
+![](assets/img/gif-1.gif)
+![](assets/img/gif02.gif)
 
 # Design decisions
 * Channel width = 0.35 mm: wide enough for accurate print resolution, thin enough for highly effective mixing
