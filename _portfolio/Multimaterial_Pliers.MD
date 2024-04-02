@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "Print-in-place, dual-extruded flexible pliers."
 header:
-  image: assets/img/devicejpg.jpg
-  teaser: assets/img/devicejpg.jpg
+  image: assets/img/pliers.heic
+  teaser: assets/img/pliers.heic
 gallery:
   - image_path: assets/img/devicejpg.jpg
     alt: "PDMS molded uFluidic device"
