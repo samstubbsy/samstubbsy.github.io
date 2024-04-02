@@ -46,4 +46,4 @@ will inhibit the crosslinking of PDMS.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RxSdNnKR72w?si=_03tpEWzyIVhuD1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdfmGJGKx-Y?si=MGBBL_vXAGIoeX_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{% include gallery caption="uFluidic device, mold, and CAD channel pyramid details in mold" %}
+{% include gallery caption="Pliers in action" %}
