@@ -5,14 +5,10 @@ header:
   image: assets/img/pliers.heic
   teaser: assets/img/pliers.heic
 gallery:
-  - image_path: assets/img/devicejpg.jpg
-    alt: "PDMS molded uFluidic device"
-  - image_path: assets/img/moldjpg.jpg
-    alt: "Resin VPP printed uFluidic device mold"
-  - image_path: assets/img/uflu_detail.png
-    alt: "Pyramid detail in CAD model of uFluidic mold straight channel"
-  - image_path: assets/img/ulfu2_detail.png
-    alt: "Pyramid detail in CAD model of uFluidic mold channel with shaped obstacles"
+  - image_path: assets/img/gif-1.gif
+    alt: "Using pliers to pick up a paperclip"
+  - image_path: assets/img/gif02.gif
+    alt: "Pliers opening and closing"
    
 ---
 
