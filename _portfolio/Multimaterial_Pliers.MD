@@ -9,6 +9,10 @@ gallery:
     alt: "Using pliers to pick up a paperclip"
   - image_path: assets/img/gif02.gif
     alt: "Pliers opening and closing"
+  - image_path: assets/img/pliers-internal.jpg
+    alt: "Using pliers to pick up a paperclip"
+  - image_path: assets/img/pliers-external.jpg
+    alt: "Pliers opening and closing"
    
 ---
 
@@ -35,4 +39,4 @@ gallery:
 # CAD Model: Internal Spring
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cb22dce40be087c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Pliers in action" %}
+{% include gallery caption="Pliers in action, internal interlocking spring" %}
