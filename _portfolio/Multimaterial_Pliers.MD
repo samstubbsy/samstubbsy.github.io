@@ -7,12 +7,12 @@ header:
 gallery:
   - image_path: assets/img/gif-1.gif
     alt: "Using pliers to pick up a paperclip"
-  - image_path: assets/img/gif02.gif
-    alt: "Pliers opening and closing"
   - image_path: assets/img/pliers-internal.png
     alt: "CAD view of the middle layer of the pliers, showing the interlocking spring"
   - image_path: assets/img/pliers-external.png
     alt: "CAD view of the top of the pliers, concealing the interlocking spring"
+  - image_path: assets/img/gif02.gif
+    alt: "Pliers opening and closing"
    
 ---
 
