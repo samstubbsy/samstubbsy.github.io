@@ -17,8 +17,10 @@ gallery:
 ---
 
 # About the Project
-* About the project
-* About print-in-place
+* Print-in-place is a design methodology for 3D printing devices that require joints or motion. Under this methodology, devices are designed such that they are assembled through the printing process rather than through post-processing. This may be achieved through building clearance into the design to create multiple components or including a flexible element in the design. Print-in-place designs are often used for devices that depend on [gears](https://thangs.com/designer/3dprintingworld/3d-model/Gift%20Box%20%237%20Print-in-Place-518615) or [bearings](https://core-electronics.com.au/guides/print-in-place-tips/).
+* In this project, I designed a pair of print-in-place pliers using a flexible component. The approach I used to achieve flexibility was using a flexible plastic, 95A TPU. However, the jaws and handle of the pliers needed to be sturdier, so I printed those sections out of PLA. This multimaterial design was printed on a dual-extrusion printer in Vanderbilt’s Digital Fabrication Lab. This dual-extrusion capability allowed me to achieve geometries that would not have been possible If I printed each component separately. In other words, my design could not have been assembled by hand.
+* When selecting materials for a multimaterial print, it is important to consider their [properties](https://www.reddit.com/r/3Dprinting/comments/1alci8m/compatibility_of_fdm_polymers_at_multimaterial/).
+
 
 # Design Process
 * Design iterations
