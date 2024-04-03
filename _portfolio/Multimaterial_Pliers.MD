@@ -22,20 +22,18 @@ gallery:
 * When selecting materials for a multimaterial print, it is important to consider their [properties](https://www.reddit.com/r/3Dprinting/comments/1alci8m/compatibility_of_fdm_polymers_at_multimaterial/).
 
 
-# Design Process
-* Design iterations
-* How the spring stays in place
+# Design Considerations
+* To interlock the spring with the body of the pliers, I originally designed a curved claw style locking mechanism. However, since the claws got thinner as they got farther from the square of the spring, they were not an optimal locking mechanism. Instead, I created my own take on the classic dovetail joint, incorporating the curvature aspect from my original design, but making the fingers of the joint get wider as the got farther from the spring square. Thus, with the plier body filling in the gaps, the spring would not come loose when pulled. To enhance the security of the spring in the z-axis, I added layers of PLA covering the joints between the spring and pliers on both the top and bottom of the device. The layer adhesion between PLA and TPU also helps the spring stay secured in the body of the pliers.
+* I added (or, rather, subtracted) relief cutouts around each corner of the spring to ensure greater flexibility.
 
 # Key Design Specs
-* Jaw length:
-* Jaw width
-* Spring inner square width:
-* Spring finger height:
-* Spring finger width: (bottom/top)
-* Spring finger curve angle:
+* Jaw length: 40.625mm
+* Jaw capacity: 10.624mm
+* Spring inner square width: 25mm
+* Spring finger height: 10mm
 
 # Print Settings
-* Create spring effect by setting infill
+* To vary the level flexibility in the spring, adjust infill settings before printing.
 
 # CAD Model: Pliers
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e18ad48dceab920b5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
