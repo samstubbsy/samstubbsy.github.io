@@ -37,7 +37,7 @@ gallery:
 * Secure the claws of the PLA spin holder around the TPU grip on the handlebar.
 
 # Material Choice
-* TPU allows for grip on the handlbar and flexibility to wrap the strap around it. The TPU knob is thick enough to sturdily affix the strap to through one of its holes.
+* TPU allows for grip on the handlebar and flexibility to wrap the strap around it. The TPU knob is thick enough to sturdily affix the strap to through one of its holes.
 * TPU also allows enough flexibilty to insert a phone into the phone case, while still providing a secure fit.
 * The TPU-PLA interface between the spinner and spin holder is key to this design. The small PLA bump outs indent the big TPU bump-outs enough to hold it in place. The TPU is still flexible enough that the device can be rotated between positions easily.
 
