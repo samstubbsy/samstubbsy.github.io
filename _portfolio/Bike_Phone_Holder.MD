@@ -2,17 +2,19 @@
 title: "Top-Down Bike Phone Holder"
 excerpt: "Multi-component bike phone mount designed using top-down modeling."
 header:
-  image: assets/img/pliers.jpg
-  teaser: assets/img/pliers.jpg
+  image: assets/img/bike-phone-angle-ROTATE.jpg
+  teaser: assets/img/bike-phone-angle-ROTATE.jpg
 gallery:
-  - image_path: assets/img/gif-1.gif
-    alt: "Using pliers to pick up a paperclip"
-  - image_path: assets/img/pliers-internal.png
-    alt: "CAD view of the middle layer of the pliers, showing the interlocking spring"
-  - image_path: assets/img/pliers-external.png
-    alt: "CAD view of the top of the pliers, concealing the interlocking spring"
-  - image_path: assets/img/gif02.gif
-    alt: "Pliers opening and closing"
+  - image_path: assets/img/bike-phone-gif.gif
+    alt: "Changing orientation of phone holder in bike mount."
+  - image_path: assets/img/bike-phone-back.jpg
+    alt: "Back angle of assembled bike phone mount."
+  - image_path: assets/img/bike-phone-side.png
+    alt: "Side angle of assembled bike phone mount."
+  - image_path: assets/img/bike-phone-cross.jpg
+    alt: "Cross-section of the securing/rotating mechanism."
+  - image_path: assets/img/bike-phone-parts.jpg
+    alt: "Printed parts of the bike phone mount prior to assembly."
    
 ---
 
