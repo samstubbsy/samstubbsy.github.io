@@ -43,6 +43,6 @@ gallery:
 
 # CAD Model
 
-
+# Gallery
 {% include gallery caption="Printed bike phone mount" %}
 
