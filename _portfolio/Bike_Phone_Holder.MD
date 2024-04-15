@@ -21,7 +21,8 @@ gallery:
 ---
 
 # About Top-Down Modeling
-* x
+* Top-down modeling is a Fusion 360 workflow useful for designing multi-component assemblies. It allows you to design components in the context of each other, rather than in separate files. This is very useful for designing components with the proper dimensions and clearances relative to each other, situated in the proper planes relative to each other. Top-down modeling also serves as a way of organizing the Fusion 360 timeline by component when you have a large number of design moves.
+* There are three main rules to follow for successful top-down modeling. 1) To create a new part, create a new component. 2) Name every new component. 3) When you want to work on a given component, make sure that component's radio button is selected.
 
 # Design Considerations
 * The design takes a TPU phone case I had previously designed and adds a four-pronged extension ("spinner") to it, which is able to be secured vertically or horizontally (and rotated between the two) in a PLA "spin holder." The spin holder had claws that secure it to an adjustable TPU strap.
