@@ -7,9 +7,9 @@ header:
 gallery:
   - image_path: assets/img/bike-phone-gif.gif
     alt: "Changing orientation of phone holder in bike mount."
-  - image_path: assets/img/bike-phone-back.jpg
+  - image_path: assets/img/green3.jpg
     alt: "Back angle of assembled bike phone mount."
-  - image_path: assets/img/bike-phone-angle.jpg
+  - image_path: assets/img/green1.jpg
     alt: "45 degree angle of assembled bike phone mount."
   - image_path: assets/img/bike-phone-side.jpg
     alt: "Side angle of assembled bike phone mount."
@@ -17,6 +17,8 @@ gallery:
     alt: "Cross-section of the securing/rotating mechanism."
   - image_path: assets/img/bike-phone-parts.jpg
     alt: "Printed parts of the bike phone mount prior to assembly."
+  - image_path: assets/img/green2.jpg
+    alt: "Top view of device."
    
 ---
 
