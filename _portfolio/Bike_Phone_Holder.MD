@@ -43,6 +43,7 @@ gallery:
 * The TPU-PLA interface between the spinner and spin holder is key to this design. The small PLA bump outs indent the big TPU bump-outs enough to hold it in place. The TPU is still flexible enough that the device can be rotated between positions easily.
 
 # CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0807ee977fe39a46?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
 {% include gallery caption="Printed bike phone mount" %}
