@@ -2,14 +2,16 @@
 title: "Top-Down Bike Phone Holder"
 excerpt: "Multi-component bike phone mount designed using top-down modeling."
 header:
-  image: assets/img/bike-phone-angle-ROTATE.jpg
-  teaser: assets/img/bike-phone-angle-ROTATE.jpg
+  image: assets/img/bike-phone-angle-ROTATE.jpeg
+  teaser: assets/img/bike-phone-angle-ROTATE.jpeg
 gallery:
   - image_path: assets/img/bike-phone-gif.gif
     alt: "Changing orientation of phone holder in bike mount."
   - image_path: assets/img/bike-phone-back.jpg
     alt: "Back angle of assembled bike phone mount."
-  - image_path: assets/img/bike-phone-side.png
+  - image_path: assets/img/bike-phone-angle.jpg
+    alt: "45 degree angle of assembled bike phone mount."
+  - image_path: assets/img/bike-phone-side.jpg
     alt: "Side angle of assembled bike phone mount."
   - image_path: assets/img/bike-phone-cross.jpg
     alt: "Cross-section of the securing/rotating mechanism."
