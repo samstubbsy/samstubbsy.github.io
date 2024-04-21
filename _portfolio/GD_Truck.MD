@@ -2,28 +2,25 @@
 title: "Generative Design Skateboad Truck"
 excerpt: "Using Fusion 360's generative design workflow to create a lightweight but sturdy longboard truck."
 header:
-  image: assets/img/bike-phone-angle-ROTATE.jpeg
-  teaser: assets/img/bike-phone-angle-ROTATE.jpeg
+  image: assets/img/truck-render-1.png
+  teaser: assets/img/truck-render-1.png
 gallery:
-  - image_path: assets/img/bike-phone-gif.gif
-    alt: "Changing orientation of phone holder in bike mount."
-  - image_path: assets/img/green3.jpg
-    alt: "Back angle of assembled bike phone mount."
-  - image_path: assets/img/green1.jpg
-    alt: "45 degree angle of assembled bike phone mount."
-  - image_path: assets/img/bike-phone-side.jpg
-    alt: "Side angle of assembled bike phone mount."
-  - image_path: assets/img/bike-phone-cross.jpg
-    alt: "Cross-section of the securing/rotating mechanism."
-  - image_path: assets/img/bike-phone-parts.jpg
-    alt: "Printed parts of the bike phone mount prior to assembly."
-  - image_path: assets/img/green2.jpg
-    alt: "Top view of device."
+  - image_path: assets/img/truck-render-1.png
+    alt: "Front view of rendered truck with surrounding electric longboard parts."
+  - image_path: assets/img/truck-render-2.png
+    alt: "Side/back view of rendered truck with surrounding electric longboard parts."
    
 ---
 
 # About Generative Design
-* x
+* Generative design is a CAD workflow that uses algorithms to create a design with organic geometries given user-defined constraints.
+* These contraints include:
+1. Obstacle geometries — regions the design must not encroach upon
+2. Preserve geometries — regions which must be included in the design
+3. Load cases — forces that the design must be able to withstand
+4. Material — aluminum, nylon, etc. 
+5. Manufacturing process - additive, milling, etc. 
+6. Goal — minimize mass or maximize stiffness
 
 # About Powder Bed Fusion
 * x
@@ -32,10 +29,14 @@ gallery:
 * x
 
 # Pros and Cons of GD
-* 
+* x
 
 # Design Considerations
-* The model below was optimized for Aluminum AlSi10Mg.
+* <obstacles>
+* <preserves>
+* <load cases>
+* One area for improvement is in the area surrounding the gears on the left side, which would be connected by a belt in the final assembly. I marked this as a preserve geometry, when in reality it should have been an obstacle geometry. In the model below, there is no way for the gears to turn without rotating the entire truck.
+* The model below was generated for use with the material Aluminum AlSi10Mg.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee223e11f01ab81fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
