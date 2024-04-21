@@ -23,22 +23,23 @@ gallery:
 ---
 
 # About Generative Design
-*
+* x
 
 # About Powder Bed Fusion
-*
+* x
 
 # Applying PBF and GD in Tandem
-*
+* x
 
 # Pros and Cons of GD
+* 
 
 # Design Considerations
-*
+* The model below was optimized for Aluminum AlSi10Mg.
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0807ee977fe39a46?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee223e11f01ab81fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
-{% include gallery caption="Printed bike phone mount" %}
+{% include gallery caption="Renderings of the generative design truck with surrounding electric longboard parts." %}
 
