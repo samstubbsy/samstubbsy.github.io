@@ -23,7 +23,7 @@ gallery:
 6. Goal — minimize mass or maximize stiffness
 
 # About Powder Bed Fusion
-* Powder bed fusion is a form of SLS (selective laser sintering) manufacturing. It places layers of thermoplastic powder and targets the desired areas with a laser to melt and fuse them.
+* Powder bed fusion is a form of SLS (selective laser sintering) manufacturing. It places layers of thermoplastic or metal powder on a bed and targets the desired areas with a laser to melt and fuse them.
 
 # Applying PBF and GD in Tandem
 * The combination of these two technologies can be used in automative and aerospace applications, such as the (General Motors seat belt bracket)[https://kingsburyuk.com/what-are-the-applications-of-powder-bed-fusion/].
