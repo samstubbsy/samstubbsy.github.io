@@ -30,13 +30,13 @@ gallery:
 
 # Pros and Cons of GD
 * Pros:
-- Achieves geometries that would be very difficult or impossible to design by hand.
-- Works based on the constraints you give it, so if your constraints are correct, there is less room for error than in designing by hand.
+1. Achieves geometries that would be very difficult or impossible to design by hand.
+2. Works based on the constraints you give it, so if your constraints are correct, there is less room for error than in designing by hand.
 * Cons:
-- User must know the magnitude, direction, and location of all forces that will be exerted on the designed part.
-- Takes hours to calculate a generative design study. Long wait time before you can edit/iterate on the design.
-- Sometimes does not precisely honor the obstacle and preserve geometries.
-- May require additional editing/post-processing of the design.
+1. User must know the magnitude, direction, and location of all forces that will be exerted on the designed part.
+2. Takes hours to calculate a generative design study. Long wait time before you can edit/iterate on the design.
+3. Sometimes does not precisely honor the obstacle and preserve geometries.
+4. May require additional editing/post-processing of the design.
 
 # Design Considerations
 * Obstacle geometries
