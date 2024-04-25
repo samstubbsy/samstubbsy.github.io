@@ -2,7 +2,7 @@
 title: "Generative Design Skateboard Truck"
 excerpt: "Creating a lightweight but sturdy electric longboard truck using Fusion 360's generative design workflow."
 header:
-  image: assets/img/gdprint1-crop.jpg
+  image: assets/img/truck-render-1.png
   teaser: assets/img/gdprint1-crop.jpg
 gallery:
   - image_path: assets/img/truck-render-1.png
