@@ -2,13 +2,23 @@
 title: "Generative Design Skateboad Truck"
 excerpt: "Creating a lightweight but sturdy electric longboard truck using Fusion 360's generative design workflow."
 header:
-  image: assets/img/truck-render-1.png
-  teaser: assets/img/truck-render-1.png
+  image: assets/img/gdprint1.jpg
+  teaser: assets/img/gdprint1.jpg
 gallery:
   - image_path: assets/img/truck-render-1.png
     alt: "Front view of rendered truck with surrounding electric longboard parts."
   - image_path: assets/img/truck-render-2.png
     alt: "Side/back view of rendered truck with surrounding electric longboard parts."
+  - image_path: assets/img/gdprint1.jpg
+    alt: "Printed truck, outside view."
+  - image_path: assets/img/gdprint2.jpg
+    alt: "Printed truck, inside view."
+  - image_path: assets/img/gdprint3.jpg
+    alt: "Printed truck, side view."
+  - image_path: assets/img/gdprint4.jpg
+    alt: "Printed truck on skateboard, outside view."
+  - image_path: assets/img/gdprint4.jpg
+    alt: "Printed truck on skateboard, inside view."
    
 ---
 
@@ -56,5 +66,5 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee223e11f01ab81fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
-{% include gallery caption="Renderings of the generative design truck with surrounding electric longboard parts." %}
+{% include gallery caption="Renderings and photos of the generative design truck with surrounding electric longboard parts." %}
 
