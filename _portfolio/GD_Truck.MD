@@ -60,11 +60,11 @@ gallery:
 3. Torsion 2, with forces pulling up on the right side of the axle and down on the left side.
 4. Moment, with rotational force on the motor mount.
 * One area for improvement is in the area surrounding the gears on the left side, which would be connected by a belt in the final assembly. I marked this as a preserve geometry, when in reality it should have been an obstacle geometry. In the model below, there is no way for the gears to turn without rotating the entire truck.
-* The model below was generated for fabrication with the material Aluminum AlSi10Mg.
+* The model below was generated for fabrication with the material Aluminum AlSi10Mg. It was printed in nylon.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee223e11f01ab81fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
-{% include gallery caption="Renderings and photos of the generative design truck with surrounding electric longboard parts." %}
+{% include gallery caption="Renderings and photos of the generative design truck alone and with surrounding electric longboard parts." %}
 
