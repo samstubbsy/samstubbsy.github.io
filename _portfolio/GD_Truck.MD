@@ -17,7 +17,7 @@ gallery:
     alt: "Printed truck, side view."
   - image_path: assets/img/gdprint4.jpg
     alt: "Printed truck on skateboard, outside view."
-  - image_path: assets/img/gdprint4.jpg
+  - image_path: assets/img/gdprint5.jpg
     alt: "Printed truck on skateboard, inside view."
    
 ---
